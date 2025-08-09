@@ -2,7 +2,7 @@
 Studying Computer Science at Universidade Cruzeiro do Sul ⭐<br>Back-End Developer <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicolasveloso_011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasrodriguesveloso) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasrodriguesveloso) 
 
 # 💻 Tech Stack:
           
