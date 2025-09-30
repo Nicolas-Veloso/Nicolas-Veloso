@@ -92,7 +92,7 @@ Studying Computer Science at Universidade Cruzeiro do Sul ⭐<br>Back-End Develo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Nicolas-Veloso&theme=dark&show_icons=true&hide=prs,issues" 
+    src="https://github-readme-stats.vercel.app/api?username=Nicolas-Veloso&theme=dark&show_icons=true&hide=issues" 
   />
 
 <img 
